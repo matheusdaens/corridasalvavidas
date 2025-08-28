@@ -1,5 +1,6 @@
 # Corrida Salva Vidas Brasil
 Matheus Augusto Lamussi Daens - 10426754
+Gabriel Maschietto Leal - 10738296
 
 ## Processo de ideação
 O tema corrida/saúde foi escolhido por já fazer parte da minha vida, e também por se encaixar perfeitamente em um caráter extensionista. Primeiramente foi pensando em um website estilo 'blog', com uma área focada em e-commerce, porém, para evitar confusões e ser mais direto ao tema de projeto extesionista, decidi focar 100% em um blog de corrida voltado para saúde.
