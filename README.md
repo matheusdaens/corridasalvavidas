@@ -1,5 +1,5 @@
 # Corrida Salva Vidas Brasil
-Matheus Augusto Lamussi Daens - 10426754
+Matheus Augusto Lamussi Daens - 10426754 <br>
 Gabriel Maschietto Leal - 10738296
 
 ## Processo de ideação
