@@ -57,6 +57,7 @@ article {
 
 li {
     display: inline;
+    
 }
 
 @media (max-width: 768px) {
@@ -72,5 +73,9 @@ li {
     
     section {
         padding: 10px;
+    }
+
+    .lista {
+        font-size: 35px;
     }
 }
