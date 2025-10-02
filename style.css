@@ -79,3 +79,8 @@ li {
         font-size: 35px;
     }
 }
+.fotoshomepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
