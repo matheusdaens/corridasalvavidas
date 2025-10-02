@@ -88,7 +88,6 @@ Ele possui três funcionalidades principais: **carrossel de imagens**, **menu mo
 - Mostra apenas a primeira imagem e esconde as demais.  
 - A cada **3 segundos**, troca para a próxima imagem automaticamente.  
 
-**Resultado:** cria um carrossel simples e automático.  
 
 
 
@@ -101,7 +100,6 @@ Ele possui três funcionalidades principais: **carrossel de imagens**, **menu mo
   - O botão some.  
   - O menu aparece normalmente.  
 
- **Resultado:** menu **responsivo**, adaptado para celular e computador.  
 
 
 
@@ -111,4 +109,4 @@ Ele possui três funcionalidades principais: **carrossel de imagens**, **menu mo
 - Valida o campo de **email** (precisa ter `@`).  
 - Mostra alerta de sucesso e limpa o formulário quando tudo está correto.  
 
- **Resultado:** formulário com validação simples e prática.  
+
