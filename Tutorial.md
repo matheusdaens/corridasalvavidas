@@ -75,3 +75,40 @@ corridasalvavidas/
 
 ### Resultado Final
 Layouts adaptados e responsivos corretamente para todos os tipos de resoluções/dispositivos, cumprindo os requisitos de flexbox e media queries solicitados no projeto.
+
+# Tutorial Simplificado do Código JavaScript
+
+Este script é executado quando a página termina de carregar (`DOMContentLoaded`).  
+Ele possui três funcionalidades principais: **carrossel de imagens**, **menu mobile** e **validação de formulários**.  
+
+
+
+### Carrossel de Imagens
+- Seleciona todas as imagens dentro de `.fotoshomepage`.  
+- Mostra apenas a primeira imagem e esconde as demais.  
+- A cada **3 segundos**, troca para a próxima imagem automaticamente.  
+
+**Resultado:** cria um carrossel simples e automático.  
+
+
+
+###  Menu Mobile
+- Cria um botão **☰ Menu**.  
+- **No celular (≤768px):**
+  - O botão aparece.  
+  - O menu abre/fecha ao clicar no botão.  
+- **No desktop (>768px):**
+  - O botão some.  
+  - O menu aparece normalmente.  
+
+ **Resultado:** menu **responsivo**, adaptado para celular e computador.  
+
+
+
+###  Validação de Formulários
+- Bloqueia o envio automático do formulário.  
+- Verifica se todos os **campos obrigatórios** foram preenchidos.  
+- Valida o campo de **email** (precisa ter `@`).  
+- Mostra alerta de sucesso e limpa o formulário quando tudo está correto.  
+
+ **Resultado:** formulário com validação simples e prática.  
